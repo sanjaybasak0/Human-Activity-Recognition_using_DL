@@ -1,2 +1,2 @@
 # Human-Activity-Recognition_using_DL
-## Coming shortly
+## This file will be filled shortly
